@@ -1,1 +1,3 @@
 piper_voices/*.onnx
+piper_voices/*.onnx
+piper_voices/*.onnx.json
