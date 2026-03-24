@@ -1,3 +1,5 @@
 piper_voices/*.onnx
 piper_voices/*.onnx
 piper_voices/*.onnx.json
+german_coach/piper_voices/de_DE-thorsten-high.onnx
+german_coach/piper_voices/de_DE-thorsten-high.onnx.json
