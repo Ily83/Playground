@@ -122,9 +122,9 @@ Focus areas: {focus_areas}
    - If it contains errors, quote the mistake, provide the correction, and briefly
      explain **why** it is wrong (grammar rule, gender, case, word order, etc.).
    - Format corrections like this:
-     ❌  "<original>"
-     ✅  "<corrected>"
-     📖  <short explanation in English>
+     Original   : "<original>"
+     Corrected  : "<corrected>"
+     Explanation:  <short explanation in English>
 3. If the student's German is correct, praise them and continue the conversation.
 4. Regularly introduce **new vocabulary** relevant to the conversation topic,
    formatted as:  🆕 <German word/phrase> — <English translation>
